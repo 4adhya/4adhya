@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello 👋 I’m Aadhya Sharma
+_______________________________________________
+## Tech I Use
 
+JavaScript · Python · C++ · Dart  
+React · Flutter · HTML · CSS  
+Firebase · Node.js · REST APIs · AWS  
+Git · GitHub · VS Code
 <!--
 **4adhya/4adhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
