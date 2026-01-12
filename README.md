@@ -7,7 +7,7 @@ I’m a product-oriented developer who learns by building real applications. I e
 ## Tech-Stack
 **Languages:** JavaScript, Python, C++, Dart  
 **Frontend:** React, Flutter, HTML, CSS  
-**Backend & Cloud:** Node.js, Firebase, REST APIs, AWS  
+**Backend & Cloud:** Firebase, REST APIs, AWS  
 **Tools:** Git, GitHub, VS Code
 
 ## Projects
