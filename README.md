@@ -16,7 +16,7 @@ I’m a product-oriented developer who learns by building real applications. I e
 Frontend architecture, backend integration, product design
 
 **Private Portal Website** — Live production web platform 
-Full-stack development, AWS deployment, real-user systems
+Full-stack development, AWS deployment, real-user systems, Wordpress
 
 **Exam Practice App** — Flutter mobile application  
 OTP authentication, MCQ flow, navigation & state handling
