@@ -24,7 +24,7 @@ OTP authentication, MCQ flow, navigation & state handling
 ## 🤝 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/aadhya-sharma-225778326/
-- 📫 Email: sharma.aadhya04@gmail.com
+- 📫 Email: sharma.aadhyaa10@gmail.com
 _______________________________________________
 
 ## Learning by building. Improving by shipping.
