@@ -9,7 +9,7 @@ _______________________________________________
 **Languages:** JavaScript, Python, C++, Dart  
 **Frontend:** React, Flutter, HTML, CSS, Wordpress  
 **Tools:** Git, GitHub, VS Code  
-**Backend & Cloud:** Firebase, REST APIs, AWS (Lightsail)
+**Backend & Cloud:** Firebase, REST APIs, AWS (Lightsail).
 
 ## Projects
 
