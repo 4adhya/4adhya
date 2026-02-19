@@ -2,7 +2,11 @@
 _______________________________________________
 
 ## About Me
-I’m a product-oriented developer who learns by building real applications. I enjoy turning ideas into usable products and improving them through iteration. Currently focused on strengthening fundamentals, Flutter development, and scalable system design.
+Product-oriented developer with hands-on experience in building and launching production websites and early-stage applications. Skilled in frontend development, WordPress, and data structures, with a growing foundation in data-driven development and scalable system thinking.
+
+I’m focused on building real-world digital products with an emphasis on clean UI, strong user experience, and reliable implementation. I’ve worked on deploying production websites and improving them through ongoing updates based on real-world requirements.
+
+Focused on building practical, user-focused solutions, I’m currently strengthening my development fundamentals while building projects that reflect real product value and long-term scalability.
 _______________________________________________
 
 ## Tech-Stack
