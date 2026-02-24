@@ -24,7 +24,7 @@ Frontend architecture, backend integration, product design
 Full-stack development, AWS deployment, real-user systems, Wordpress
 
 **Exam Practice App** — Flutter mobile application  
-OTP authentication, MCQ flow, navigation & state handling
+OTP authentication, MCQ flow, navigation & state handling.
 
 ## GitHub Stats
 
