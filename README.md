@@ -23,14 +23,6 @@ Frontend architecture, backend integration, product design
 **Private Portal Website** — Live production web platform  
 Full-stack development, AWS deployment, real-user systems, Wordpress
 
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
-
 ## 🤝 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/aadhya-sharma-225778326/
