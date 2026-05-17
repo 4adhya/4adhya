@@ -1,33 +1,17 @@
-## Hello 👋 I’m Aadhya Sharma
-_______________________________________________
+<div align="center">
 
-## About Me
-Product-oriented developer with hands-on experience in building and launching production websites and early-stage applications. Skilled in frontend development, WordPress, and data structures, with a growing foundation in data-driven development and scalable system thinking.
+<img src="./assets/hero.svg" width="800" alt="aadhyasharma"/>
 
-I’m focused on building real-world digital products with an emphasis on clean UI, strong user experience, and reliable implementation. I’ve worked on deploying production websites and improving them through ongoing updates based on real-world requirements.
+<br/>
 
-Focused on building practical, user-focused solutions, I’m currently strengthening my development fundamentals while building projects that reflect real product value and long-term scalability.
-_______________________________________________
+<img src="./assets/about.svg" width="800" alt="About"/>
 
-## Tech-Stack
-**Languages:** JavaScript, Python, C++, Dart  
-**Frontend:** React, Flutter, HTML, CSS, Wordpress  
-**Tools:** Git, GitHub, VS Code  
-**Backend & Cloud:** Firebase, REST APIs, AWS Lightsail
+<br/>
 
-## Projects
+<img src="./assets/stack.svg" width="800" alt="Stack"/>
 
-**Snippix** — Full-stack visual collage platform  
-Frontend architecture, backend integration, product design
+<br/>
 
-**Private Portal Website** — Live production web platform  
-Full-stack development, AWS deployment, real-user systems, Wordpress
+<img src="./assets/social.svg" width="800" alt="Connect"/>
 
-## 🤝 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/aadhya-sharma-225778326/
-- 📫 Email: sharma.aadhyaa10@gmail.com
-_______________________________________________
-
-## Learning by building. Improving by shipping.
-
+</div>
