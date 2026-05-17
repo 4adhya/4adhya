@@ -1,6 +1,5 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Left panel gradient - dark red/maroon -->
     <radialGradient id="leftBg" cx="30%" cy="60%" r="70%">
       <stop offset="0%" stop-color="#3a1515"/>
       <stop offset="60%" stop-color="#1e0e0e"/>
@@ -10,19 +9,14 @@
       <stop offset="0%" stop-color="#5a1f1f" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#111111" stop-opacity="0"/>
     </radialGradient>
-
-    <!-- Right top panel gradient - dark blue/navy -->
     <radialGradient id="rightTopBg" cx="80%" cy="20%" r="70%">
       <stop offset="0%" stop-color="#0f1a2e"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </radialGradient>
-
-    <!-- Right bottom panel gradient - dark gold -->
     <radialGradient id="rightBotBg" cx="80%" cy="80%" r="70%">
       <stop offset="0%" stop-color="#1a160a"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </radialGradient>
-
     <filter id="softblur">
       <feGaussianBlur stdDeviation="20"/>
     </filter>
@@ -39,41 +33,39 @@
         font-size="10" font-weight="500" fill="#6b4040" letter-spacing="3">ABOUT</text>
 
   <!-- Main tagline -->
-  <text x="32" y="96" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="34" font-weight="700" fill="#f0eded">Building things</text>
-  <text x="32" y="136" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="34" font-weight="700" fill="#f0eded">that matter.</text>
+  <text x="32" y="92" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="30" font-weight="700" fill="#f0eded">Shipping products</text>
+  <text x="32" y="128" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="30" font-weight="700" fill="#f0eded">that reach millions.</text>
 
   <!-- Sub tagline -->
-  <text x="32" y="168" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-        font-size="13" fill="#7a5555" font-style="normal">&gt; open to collaborations_</text>
+  <text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="12.5" fill="#7a5555">&gt; 1M+ impressions across live projects_</text>
 
-  <!-- RIGHT TOP PANEL -->
+  <!-- RIGHT TOP PANEL — Seeking Internship -->
   <rect x="528" y="0" width="272" height="96" rx="12" fill="url(#rightTopBg)"/>
   <circle cx="750" cy="20" r="50" fill="#1a2a4a" opacity="0.4" filter="url(#softblur)"/>
 
-  <!-- Target icon -->
-  <circle cx="686" cy="48" r="20" fill="none" stroke="#e05a5a" stroke-width="2" opacity="0.8"/>
-  <circle cx="686" cy="48" r="12" fill="none" stroke="#e05a5a" stroke-width="1.5" opacity="0.6"/>
-  <circle cx="686" cy="48" r="4" fill="#e05a5a" opacity="0.9"/>
-  <line x1="686" y1="24" x2="686" y2="72" stroke="#e05a5a" stroke-width="1" opacity="0.4"/>
-  <line x1="662" y1="48" x2="710" y2="48" stroke="#e05a5a" stroke-width="1" opacity="0.4"/>
+  <!-- Laptop / code icon (simplified) -->
+  <rect x="672" y="30" width="28" height="20" rx="2" fill="none" stroke="#5a8fc0" stroke-width="1.5"/>
+  <rect x="668" y="50" width="36" height="3" rx="1.5" fill="#5a8fc0" opacity="0.6"/>
+  <text x="678" y="44" font-family="monospace" font-size="8" fill="#5a8fc0">&lt;/&gt;</text>
 
-  <text x="724" y="38" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-        font-size="8.5" font-weight="600" fill="#4a6080" letter-spacing="2">ALWAYS</text>
-  <text x="724" y="54" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-        font-size="8.5" font-weight="600" fill="#4a6080" letter-spacing="2">LEARNING</text>
+  <text x="720" y="34" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="8.5" font-weight="600" fill="#4a6080" letter-spacing="2">SEEKING</text>
+  <text x="720" y="50" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="8.5" font-weight="600" fill="#4a6080" letter-spacing="2">INTERNSHIP</text>
 
-  <!-- RIGHT BOTTOM PANEL -->
+  <!-- RIGHT BOTTOM PANEL — AWS / Cloud -->
   <rect x="528" y="104" width="272" height="96" rx="12" fill="url(#rightBotBg)"/>
   <circle cx="750" cy="180" r="50" fill="#2a1f05" opacity="0.5" filter="url(#softblur)"/>
 
-  <!-- Star icon -->
-  <polygon points="686,28 690,42 704,42 693,51 697,65 686,56 675,65 679,51 668,42 682,42"
-           transform="translate(0,76)" fill="#e8b84b" opacity="0.9"/>
+  <!-- Cloud icon -->
+  <path d="M680 148 Q680 140 688 140 Q690 132 700 134 Q704 126 712 130 Q720 126 722 134 Q730 134 730 142 Q734 156 722 156 L684 156 Q676 156 680 148 Z"
+        fill="none" stroke="#e8b84b" stroke-width="1.5" opacity="0.8"/>
 
-  <text x="724" y="142" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-        font-size="8.5" font-weight="600" fill="#6b5a20" letter-spacing="2">CRAFT</text>
-  <text x="724" y="158" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-        font-size="8.5" font-weight="600" fill="#6b5a20" letter-spacing="2">MATTERS</text>
+  <text x="742" y="142" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="8.5" font-weight="600" fill="#6b5a20" letter-spacing="2">AWS</text>
+  <text x="742" y="158" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="8.5" font-weight="600" fill="#6b5a20" letter-spacing="2">LIGHTSAIL</text>
 </svg>
