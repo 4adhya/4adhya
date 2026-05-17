@@ -44,18 +44,4 @@
     <text x="600" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
           font-size="11.5" fill="white" text-anchor="middle">sharma.aadhya04@gmail</text>
   </a>
-</svg>    <text x="430" y="40" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#e0e0e0">𝕏</text>
-    <text x="460" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-          font-size="13" fill="#e0e0e0" text-anchor="middle">Twitter</text>
-  </a>
-
-  <!-- Email button -->
-  <a href="mailto:your@email.com">
-    <rect x="520" y="15" width="100" height="40" rx="20" fill="#c0392b" stroke="#d44235" stroke-width="1"/>
-    <!-- Mail icon -->
-    <rect x="533" y="26" width="14" height="10" rx="1" fill="none" stroke="white" stroke-width="1.2"/>
-    <polyline points="533,26 540,33 547,26" fill="none" stroke="white" stroke-width="1.2"/>
-    <text x="573" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
-          font-size="13" fill="white" text-anchor="middle">Email</text>
-  </a>
 </svg>
