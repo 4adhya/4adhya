@@ -1,1 +1,51 @@
+<svg width="800" height="70" viewBox="0 0 800 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="socialBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </radialGradient>
+  </defs>
 
+  <rect width="800" height="70" rx="12" fill="url(#socialBg)"/>
+
+  <!-- GitHub button -->
+  <a href="https://github.com/aadhyasharma">
+    <rect x="166" y="15" width="108" height="40" rx="20" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+    <!-- GitHub icon -->
+    <path d="M196 35c0-5.52 4.48-10 10-10s10 4.48 10 10c0 4.42-2.87 8.17-6.84 9.49-.5.09-.68-.22-.68-.48 0-.33.01-1.4.01-2.73 0-.93-.32-1.54-.68-1.85 2.23-.25 4.57-1.09 4.57-4.93 0-1.09-.39-1.98-1.03-2.68.1-.25.45-1.27-.1-2.64 0 0-.84-.27-2.75 1.02-.8-.22-1.65-.33-2.5-.33s-1.7.11-2.5.33c-1.91-1.29-2.75-1.02-2.75-1.02-.55 1.37-.2 2.39-.1 2.64-.64.7-1.03 1.59-1.03 2.68 0 3.83 2.34 4.68 4.57 4.93-.29.25-.55.69-.64 1.33-.58.26-2.04.7-2.94-.84 0 0-.53-.97-1.55-1.04 0 0-.98-.01-.07.62 0 0 .66.31 1.12 1.46 0 0 .59 1.8 3.41 1.19v1.86c0 .26-.18.57-.68.48A10.008 10.008 0 0 1 196 35z"
+          fill="#e0e0e0"/>
+    <text x="220" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="13" fill="#e0e0e0" text-anchor="middle">GitHub</text>
+  </a>
+
+  <!-- LinkedIn button -->
+  <a href="https://linkedin.com/in/aadhyasharma">
+    <rect x="284" y="15" width="116" height="40" rx="20" fill="#0a66c2" stroke="#1577d3" stroke-width="1"/>
+    <!-- LinkedIn icon (simplified) -->
+    <rect x="298" y="26" width="3" height="10" rx="1" fill="white"/>
+    <circle cx="299.5" cy="24" r="1.5" fill="white"/>
+    <rect x="303" y="30" width="3" height="6" rx="1" fill="white"/>
+    <path d="M303 30 Q303 27 307 27 Q311 27 311 31 L311 36 L308 36 L308 31 Q308 29.5 306 29.5 Q303 29.5 303 31 Z" fill="white"/>
+    <text x="344" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="13" fill="white" text-anchor="middle">LinkedIn</text>
+  </a>
+
+  <!-- X / Twitter button -->
+  <a href="https://twitter.com/aadhyasharma">
+    <rect x="410" y="15" width="100" height="40" rx="20" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+    <!-- X icon -->
+    <text x="430" y="40" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#e0e0e0">𝕏</text>
+    <text x="460" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="13" fill="#e0e0e0" text-anchor="middle">Twitter</text>
+  </a>
+
+  <!-- Email button -->
+  <a href="mailto:your@email.com">
+    <rect x="520" y="15" width="100" height="40" rx="20" fill="#c0392b" stroke="#d44235" stroke-width="1"/>
+    <!-- Mail icon -->
+    <rect x="533" y="26" width="14" height="10" rx="1" fill="none" stroke="white" stroke-width="1.2"/>
+    <polyline points="533,26 540,33 547,26" fill="none" stroke="white" stroke-width="1.2"/>
+    <text x="573" y="40" font-family="-apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="13" fill="white" text-anchor="middle">Email</text>
+  </a>
+</svg>
