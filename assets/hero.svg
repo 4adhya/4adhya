@@ -17,40 +17,37 @@
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="800" height="280" rx="12" fill="url(#bg1)"/>
   <rect width="800" height="280" rx="12" fill="url(#glow1)"/>
   <rect width="800" height="280" rx="12" fill="url(#glow2)"/>
 
-  <!-- Subtle noise texture circles -->
   <circle cx="650" cy="60" r="120" fill="#2d5a3d" opacity="0.12" filter="url(#blur1)"/>
   <circle cx="150" cy="220" r="100" fill="#1a4a2d" opacity="0.15" filter="url(#blur1)"/>
 
   <!-- Name -->
-  <text x="400" y="118" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="58" font-weight="700" fill="#f0f0f0" text-anchor="middle" letter-spacing="-1">
-    aadhyasharma
+  <text x="400" y="112" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="56" font-weight="700" fill="#f0f0f0" text-anchor="middle" letter-spacing="-1">
+    Aadhya Sharma
   </text>
 
   <!-- Tagline -->
-  <text x="400" y="150" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="13" font-weight="400" fill="#6b8f76" text-anchor="middle" letter-spacing="5">
-    CODE · CREATE · LEARN
+  <text x="400" y="148" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="12.5" font-weight="400" fill="#6b8f76" text-anchor="middle" letter-spacing="5">
+    BUILD · DEPLOY · SCALE
   </text>
 
-  <!-- Pill tags -->
-  <!-- pill 1 -->
-  <rect x="271" y="176" width="80" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
-  <text x="311" y="193" font-family="'SF Pro Text', -apple-system, sans-serif"
-        font-size="11.5" fill="#7aad8a" text-anchor="middle">open source</text>
+  <!-- Pills -->
+  <rect x="230" y="174" width="86" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
+  <text x="273" y="191" font-family="-apple-system, sans-serif" font-size="11.5" fill="#7aad8a" text-anchor="middle">full-stack</text>
 
-  <!-- pill 2 -->
-  <rect x="361" y="176" width="78" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
-  <text x="400" y="193" font-family="'SF Pro Text', -apple-system, sans-serif"
-        font-size="11.5" fill="#7aad8a" text-anchor="middle">developer</text>
+  <rect x="326" y="174" width="88" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
+  <text x="370" y="191" font-family="-apple-system, sans-serif" font-size="11.5" fill="#7aad8a" text-anchor="middle">open source</text>
 
-  <!-- pill 3 -->
-  <rect x="449" y="176" width="80" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
-  <text x="489" y="193" font-family="'SF Pro Text', -apple-system, sans-serif"
-        font-size="11.5" fill="#7aad8a" text-anchor="middle">minimalism</text>
+  <rect x="424" y="174" width="110" height="26" rx="13" fill="none" stroke="#2d5a3d" stroke-width="1"/>
+  <text x="479" y="191" font-family="-apple-system, sans-serif" font-size="11.5" fill="#7aad8a" text-anchor="middle">product builder</text>
+
+  <!-- Bottom caption -->
+  <text x="400" y="248" font-family="-apple-system, sans-serif" font-size="11" fill="#3a5a45" text-anchor="middle" letter-spacing="1">
+    B.Tech IT · GGSIPU Delhi · GPA 8.95 / 10
+  </text>
 </svg>
